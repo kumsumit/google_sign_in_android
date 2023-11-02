@@ -183,7 +183,7 @@
     },
     {
       "name": "google_sign_in_platform_interface",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/google_sign_in_platform_interface-2.4.2",
+      "rootUri": "file:///home/sumit/.pub-cache/git/google_sign_in_platform_interface-9033cc08d77ea3dacf1af9ee0558c1b7d4518417/",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
@@ -279,9 +279,9 @@
     },
     {
       "name": "pigeon",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/pigeon-10.1.6",
+      "rootUri": "file:///home/sumit/.pub-cache/git/pigeon-44057d2a4cab2029c1b25b598bfe9bc439d4eeb9/",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.1"
     },
     {
       "name": "platform",
@@ -291,9 +291,9 @@
     },
     {
       "name": "plugin_platform_interface",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.6",
+      "rootUri": "file:///home/sumit/.pub-cache/git/plugin_platform_interface-3f77202a425698dc76188933bde3738a0df4b21e/",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.1"
     },
     {
       "name": "pool",
@@ -458,7 +458,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2023-10-27T11:52:35.936554Z",
+  "generated": "2023-11-02T05:05:38.876027Z",
   "generator": "pub",
   "generatorVersion": "3.1.5"
 }
