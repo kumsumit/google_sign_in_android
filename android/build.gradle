@@ -8,7 +8,7 @@ buildscript {
     }
 
     dependencies {
-        classpath 'com.android.tools.build:gradle:8.1.2'
+        classpath 'com.android.tools.build:gradle:8.7.2'
     }
 }
 
@@ -23,10 +23,10 @@ apply plugin: 'com.android.library'
 
 android {
     namespace 'io.flutter.plugins.googlesignin'
-    compileSdkVersion 34
+    compileSdk 35
 
     defaultConfig {
-        minSdkVersion 16
+        minSdkVersion 19
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
@@ -38,7 +38,7 @@ android {
     lintOptions {
         checkAllWarnings true
         warningsAsErrors true
-        disable 'AndroidGradlePluginVersion', 'InvalidPackage', 'GradleDependency'
+        disable 'AndroidGradlePluginVersion', 'InvalidPackage', 'GradleDependency', 'NewerVersionAvailable'
     }
 
 
@@ -56,8 +56,8 @@ android {
 }
 
 dependencies {
-    implementation 'com.google.android.gms:play-services-auth:20.7.0'
-    implementation 'com.google.guava:guava:32.1.3-android'
+    implementation 'com.google.android.gms:play-services-auth:21.2.0'
+    implementation 'com.google.guava:guava:33.3.1-android'
     testImplementation 'junit:junit:4.13.2'
     testImplementation 'org.mockito:mockito-inline:5.0.0'
 }
