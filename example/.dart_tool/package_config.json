@@ -27,9 +27,9 @@
     },
     {
       "name": "collection",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/collection-1.18.0",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/collection-1.19.0",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.4"
     },
     {
       "name": "espresso",
@@ -81,9 +81,9 @@
     },
     {
       "name": "google_sign_in_platform_interface",
-      "rootUri": "file:///home/sumit/.pub-cache/git/google_sign_in_platform_interface-93ee5f92e6e894a4f602091fc6365099e479b745/",
+      "rootUri": "file:///home/sumit/.pub-cache/git/google_sign_in_platform_interface-eb5fa1b78476fdd59bac7a804d7d43260293e86d/",
       "packageUri": "lib/",
-      "languageVersion": "3.3"
+      "languageVersion": "3.4"
     },
     {
       "name": "http",
@@ -93,9 +93,9 @@
     },
     {
       "name": "http_parser",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/http_parser-4.0.2",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/http_parser-4.1.1",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.4"
     },
     {
       "name": "integration_test",
@@ -105,13 +105,13 @@
     },
     {
       "name": "leak_tracker",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/leak_tracker-10.0.5",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/leak_tracker-10.0.7",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
     {
       "name": "leak_tracker_flutter_testing",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/leak_tracker_flutter_testing-3.0.5",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/leak_tracker_flutter_testing-3.0.8",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
@@ -183,9 +183,9 @@
     },
     {
       "name": "stack_trace",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/stack_trace-1.11.1",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/stack_trace-1.12.0",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.4"
     },
     {
       "name": "stream_channel",
@@ -195,9 +195,9 @@
     },
     {
       "name": "string_scanner",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/string_scanner-1.2.0",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/string_scanner-1.3.0",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.1"
     },
     {
       "name": "sync_http",
@@ -213,9 +213,9 @@
     },
     {
       "name": "test_api",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/test_api-0.7.2",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/test_api-0.7.3",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.4"
     },
     {
       "name": "typed_data",
@@ -231,7 +231,7 @@
     },
     {
       "name": "vm_service",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/vm_service-14.2.5",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/vm_service-14.3.0",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     },
@@ -243,9 +243,9 @@
     },
     {
       "name": "webdriver",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/webdriver-3.0.3",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/webdriver-3.0.4",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.1"
     },
     {
       "name": "google_sign_in_example",
@@ -254,10 +254,10 @@
       "languageVersion": "3.5"
     }
   ],
-  "generated": "2024-11-16T16:14:11.513309Z",
+  "generated": "2024-12-16T06:56:28.242753Z",
   "generator": "pub",
-  "generatorVersion": "3.5.4",
+  "generatorVersion": "3.6.0",
   "flutterRoot": "file:///home/sumit/softwares/flutter",
-  "flutterVersion": "3.24.5",
+  "flutterVersion": "3.27.0",
   "pubCache": "file:///home/sumit/.pub-cache"
 }
